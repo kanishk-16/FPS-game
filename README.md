@@ -87,6 +87,7 @@ This is a personal project to develop a simple multiplayer first-person shooter 
 - [LearnOpenGL](https://learnopengl.com/)
 - [OpenGL Wiki](https://www.khronos.org/opengl/wiki/)
 - [Game Networking Resources](https://gafferongames.com/)
+- [OpenGL Tutorial by Victor Gordan](https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-)
 
 ---
 
